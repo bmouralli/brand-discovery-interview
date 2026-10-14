@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Discovery Interview"
+  short_description: "Discover brand vision, voice and social content"
+  default_prompt: "Use $brand-discovery-interview to start a 100-question brand interview for my business, one question at a time."
